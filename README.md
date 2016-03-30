@@ -1,0 +1,2 @@
+# lightstyle
+hexo theme
